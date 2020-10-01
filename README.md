@@ -1,2 +1,11 @@
-# IASC-1P04
-For IASC-1P04 stuff
+# IASC-1P04 | Lew
+
+Something about creating twine game for 1P04
+
+## Playtest
+
+play game [here]
+
+## Game Proposal Document
+
+red stuff [here]
