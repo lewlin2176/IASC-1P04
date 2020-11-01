@@ -12,4 +12,4 @@ red stuff [here]
 
 ## Prototype
 
-play prototype [here](prototype/The Case Prototype.html)
+play prototype [here](Prototype/The Case Prototype.html)
