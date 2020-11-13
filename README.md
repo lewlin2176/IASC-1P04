@@ -4,7 +4,7 @@ Something about creating twine game for 1P04
 
 ## Playtest
 
-play game [here]
+play game [here](Playtest/playtest)
 
 ## Game Proposal Document
 
