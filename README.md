@@ -2,7 +2,7 @@
 
 Something about creating twine game for 1P04
 
-## PLay now
+## Play now
 
 play the case [here](Final_Build/The Case Final Build.html)
 
